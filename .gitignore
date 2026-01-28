@@ -1,0 +1,51 @@
+# =========================
+# UNITY GENERATED / CACHE
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# =========================
+# IDE / EDITOR FILES
+# =========================
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# PERFORMANCE / METRICS
+# (keep manual, not auto)
+# =========================
+Assets/performance_log.txt
+/metrics/
+
+# =========================
+# OPTIONAL: DOTNET / UNITY HUB
+# =========================
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# =========================
+# BACKUPS / TEMP EXPORTS
+# =========================
+*.bak
+*.tmp
+*.swp
