@@ -49,3 +49,4 @@ Assets/performance_log.txt
 *.bak
 *.tmp
 *.swp
+.vsconfig
